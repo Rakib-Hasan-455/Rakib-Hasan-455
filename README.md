@@ -44,6 +44,7 @@
 
 ###Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Geany Code editor Bangla review for my friend.](https://www.youtube.com/watch?v=NDE2NFFy0v4)
 <!-- YOUTUBE:END -->
 
 ---
