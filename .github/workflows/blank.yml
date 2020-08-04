@@ -2,7 +2,7 @@ name: Latest blog post workflow--1
 on:
   schedule:
     # Runs every hour
-    - cron: '30 * * * *'
+    - cron: '*/5 * * * *'
 
 jobs:
   update-readme-with-blog:
