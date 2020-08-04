@@ -57,9 +57,9 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
----
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+
+
 
 [website]:https://sites.google.com/view/rakibul-hasan-455
 [Twitter]: https://https://twitter.com/Rakib_the_star
