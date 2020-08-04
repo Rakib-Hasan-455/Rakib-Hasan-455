@@ -57,10 +57,6 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-
-
-
-
 [website]:https://sites.google.com/view/rakibul-hasan-455
 [Twitter]: https://https://twitter.com/Rakib_the_star
 [youtube]:https://www.youtube.com/channel/UCZGtLTeoGSFcs0c4SlkQHHA?view_as=subscriber
