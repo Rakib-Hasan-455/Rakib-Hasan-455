@@ -61,11 +61,8 @@
 
 ---
 
-<a href="https://github.com/Rakib-Hasan-455/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Rakib-Hasan-455&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/Rakib-Hasan-455/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Rakib-Hasan-455&repo=convoychat" />
+<a href="https://github.com/Rakib-Hasan-455/Semester-Fee-Calculator">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Rakib-Hasan-455&repo=Semester-Fee-Calculator" />
 </a>
 
 [website]:https://sites.google.com/view/rakibul-hasan-455
