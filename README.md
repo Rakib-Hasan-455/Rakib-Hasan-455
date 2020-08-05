@@ -57,17 +57,17 @@
 
 ---
 
-<img align="left" alt="Rakib's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rakib-Hasan-455&show_icons=true&hide_border=true&theme=dark" />
+<img align="left" alt="Rakib's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rakib-Hasan-455&show_icons=true&hide_border=true" />
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakib-Hasan-455&theme=highcontrast)](https://github.com/Rakib-Hasan-455)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakib-Hasan-455)](https://github.com/Rakib-Hasan-455)
 
 
 ---
 
 <a href="https://github.com/Rakib-Hasan-455/Semester-Fee-Calculator">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Rakib-Hasan-455&repo=Semester-Fee-Calculator&theme=dark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Rakib-Hasan-455&repo=Semester-Fee-Calculator&theme=solarized-light" />
 </a>
 
 [website]:https://sites.google.com/view/rakibul-hasan-455
