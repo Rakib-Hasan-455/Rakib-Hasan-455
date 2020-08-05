@@ -52,6 +52,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What to do if Java command is not recognized by  terminal.](https://dev.to/rakibhasan455/what-to-do-if-java-command-is-not-recognized-by-terminal-o4c)
 <!-- BLOG-POST-LIST:END -->
 
 [website]:https://sites.google.com/view/rakibul-hasan-455
