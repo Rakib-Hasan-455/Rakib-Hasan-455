@@ -61,6 +61,10 @@
 
 ---
 
+<img align="left" alt="Rakib's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakib-hasan-455&show_icons=true&hide_border=true"/>
+
+---
+
 <a href="https://github.com/Rakib-Hasan-455/Semester-Fee-Calculator">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Rakib-Hasan-455&repo=Semester-Fee-Calculator" />
 </a>
