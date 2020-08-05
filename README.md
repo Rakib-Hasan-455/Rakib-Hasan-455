@@ -44,6 +44,7 @@
 
 ### 📺 Latest YOUTUBE videos
 <!-- YOUTUBE:START -->
+- [Rapoo v500s alloy keyboard Typing test with sound](https://www.youtube.com/watch?v=EjAzXhRIblQ)
 - [Geany Code editor Bangla review for my friend.](https://www.youtube.com/watch?v=NDE2NFFy0v4)
 <!-- YOUTUBE:END -->
 
