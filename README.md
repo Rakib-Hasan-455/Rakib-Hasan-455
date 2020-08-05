@@ -61,7 +61,8 @@
 
 ---
 
-<img align="left" alt="Top used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakib-hasan-455"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakib-Hasan-455)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 
