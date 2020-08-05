@@ -61,7 +61,7 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakib-Hasan-455&theme=dark&icon_color=green)](https://github.com/Rakib-Hasan-455)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakib-Hasan-455&theme=dark&icon_color=green&bg_color=green)](https://github.com/Rakib-Hasan-455)
 
 
 ---
