@@ -2,11 +2,11 @@
 ### Hi there, I'm Rakib -Website>[Rakib Hasan][website] 👋
 
 ## I'm a newbie Learner. !
-- 🔭 I’m currently not working on anywhere [website] !
+- 🔭 I’m currently not working anywhere [website] !
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I love to draw/animate and play guitar / sing music.
 
 ### Connect with me:
 
