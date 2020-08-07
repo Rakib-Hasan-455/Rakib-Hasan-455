@@ -1,8 +1,8 @@
 
 ### Hi there, I'm Rakib -Website>[Rakib Hasan][website] 👋
 
-## I'm a software developer on android & IOS !
-- 🔭 I’m currently working on a Upwork [website] !
+## I'm a newbie Learner. !
+- 🔭 I’m currently not working on anywhere [website] !
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
