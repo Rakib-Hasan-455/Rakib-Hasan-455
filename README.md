@@ -44,6 +44,7 @@
 
 ### 📺 Latest YOUTUBE videos
 <!-- YOUTUBE:START -->
+- [Semester fee calculator Promo Video.](https://www.youtube.com/watch?v=4K1n5EWy-j0)
 - [Music reactor animation of We will meet again by The FatRat and Laura .](https://www.youtube.com/watch?v=QnR8febFDfM)
 - [Rapoo v500 RGB keyboard sound test.(Blue Switch)](https://www.youtube.com/watch?v=EjAzXhRIblQ)
 - [Geany Code editor Bangla review for my friend.](https://www.youtube.com/watch?v=NDE2NFFy0v4)
