@@ -1,8 +1,8 @@
 
-### Hi there, I'm Rakib -Website>[Rakib Hasan][website] 👋
+### Hi there, I'm [Rakib Hasan][website] 👋
 
 ## I'm a newbie Learner. !
-- 🔭 I’m currently not working anywhere [website] !
+- 🔭 I’m currently not working anywhere !
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
