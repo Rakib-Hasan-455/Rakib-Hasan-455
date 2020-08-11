@@ -1,7 +1,7 @@
 name: Latest YouTube videos
 on:
   schedule:
-    # Runs every 5 minutes
+    # Runs every 59 minutes
     - cron: '*/59 * * * *'
 
 jobs:
