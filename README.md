@@ -77,7 +77,7 @@
 </a>
 
 [website]:https://sites.google.com/view/rakibul-hasan-455
-[Twitter]: https://https://twitter.com/Rakib_the_star
+[Twitter]: https://twitter.com/Rakib_Hasan_455
 [youtube]:https://www.youtube.com/channel/UCZGtLTeoGSFcs0c4SlkQHHA?view_as=subscriber
 [instagram]: https://www.instagram.com/rakibul_hasan_455
 [linkedin]: https://www.linkedin.com/in/Rakibul-hasan-0455
