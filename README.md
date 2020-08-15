@@ -78,7 +78,7 @@
 [youtube]:https://www.youtube.com/channel/UCZGtLTeoGSFcs0c4SlkQHHA?view_as=subscriber
 [instagram]: https://www.instagram.com/rakibul_hasan_455
 [linkedin]: https://www.linkedin.com/in/Rakibul-hasan-0455
-[Facebook]: https://www.linkedin.com/in/Rakibul.hasan.0455
+[Facebook]: https://www.facebook.com/Rakibul.hasan.455
 [webdevplaylist]:https://www.youtube.com/channel/UCZGtLTeoGSFcs0c4SlkQHHA?view_as=subscriber
 [jsplaylist]:https://www.youtube.com/channel/UCZGtLTeoGSFcs0c4SlkQHHA?view_as=subscriber
 [cssplaylist]: https://www.youtube.com/channel/UCZGtLTeoGSFcs0c4SlkQHHA?view_as=subscriber
