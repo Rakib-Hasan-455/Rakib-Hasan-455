@@ -1,7 +1,7 @@
 
 ### Hi there, I'm [Rakib Hasan][website] 👋
 
-## I'm a newbie Learner. !
+## I'm a newbie Learner !
 - 🔭 I’m currently not working anywhere !
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
