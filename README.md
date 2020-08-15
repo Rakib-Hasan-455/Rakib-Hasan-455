@@ -28,16 +28,18 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://simpleicons.org/icons/dart.svg" />][jsplaylist]
 [<img align="left" alt="React" width="26px" src="https://simpleicons.org/icons/flutter.svg" />][reactplaylist]
 [<img align="left" alt="Gatsby" width="26px" src="https://simpleicons.org/icons/ios.svg" />][webdevplaylist]
+[<img align="left" alt="MongoDB" width="26px" src="https://simpleicons.org/icons/firebase.svg" />][webdevplaylist]
+
+[<img align="left" alt="Git" width="26px" src="https://simpleicons.org/icons/mysql.svg" />][webdevplaylist]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
+[<img align="left" alt="Git" width="26px" src="https://simpleicons.org/icons/linux.svg" />][webdevplaylist]
+[<img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/github.svg" />][webdevplaylist]
 [<img align="left" alt="GraphQL" width="26px" src="https://simpleicons.org/icons/spring.svg" />][webdevplaylist]
 [<img align="left" alt="Node.js" width="26px" src="https://simpleicons.org/icons/adobephotoshop.svg" />][webdevplaylist]
 [<img align="left" alt="Deno" width="26px" src="https://simpleicons.org/icons/adobeillustrator.svg" />][webdevplaylist]
 [<img align="left" alt="SQL" width="26px" src="https://simpleicons.org/icons/adobeindesign.svg" />][webdevplaylist]
 [<img align="left" alt="MySQL" width="26px" src="https://simpleicons.org/icons/adobepremierepro.svg" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://simpleicons.org/icons/firebase.svg" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://simpleicons.org/icons/linux.svg" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://simpleicons.org/icons/firebase.svg" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/github.svg" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
+
 
 <br />
 <br />
