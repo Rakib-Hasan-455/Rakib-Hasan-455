@@ -34,11 +34,6 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 [<img align="left" alt="Git" width="26px" src="https://simpleicons.org/icons/linux.svg" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/github.svg" />][webdevplaylist]
-[<img align="left" alt="GraphQL" width="26px" src="https://simpleicons.org/icons/spring.svg" />][webdevplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://simpleicons.org/icons/adobephotoshop.svg" />][webdevplaylist]
-[<img align="left" alt="Deno" width="26px" src="https://simpleicons.org/icons/adobeillustrator.svg" />][webdevplaylist]
-[<img align="left" alt="SQL" width="26px" src="https://simpleicons.org/icons/adobeindesign.svg" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://simpleicons.org/icons/adobepremierepro.svg" />][webdevplaylist]
 
 
 <br />
@@ -69,11 +64,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakib-Hasan-455)](https://github.com/Rakib-Hasan-455)
 
-
----
-### ✔ Latest Github Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 ---
 
