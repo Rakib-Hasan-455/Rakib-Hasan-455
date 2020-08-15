@@ -71,6 +71,10 @@
 
 
 ---
+### 📕 Latest Github Activity
+<!--START_SECTION:activity-->
+
+---
 
 <a href="https://github.com/Rakib-Hasan-455/Semester-Fee-Calculator">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Rakib-Hasan-455&repo=Semester-Fee-Calculator&theme=solarized-light" />
