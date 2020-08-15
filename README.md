@@ -71,7 +71,7 @@
 
 
 ---
-### 📕 Latest Github Activity
+### ✔ Latest Github Activity⚡
 <!--START_SECTION:activity-->
 
 ---
