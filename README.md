@@ -15,6 +15,7 @@
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://simpleicons.org/icons/facebook.svg" />][Facebook]
 
 <br />
 
@@ -77,6 +78,7 @@
 [youtube]:https://www.youtube.com/channel/UCZGtLTeoGSFcs0c4SlkQHHA?view_as=subscriber
 [instagram]: https://www.instagram.com/rakibul_hasan_455
 [linkedin]: https://www.linkedin.com/in/Rakibul-hasan-0455
+[Facebook]: https://www.linkedin.com/in/Rakibul.hasan.0455
 [webdevplaylist]:https://www.youtube.com/channel/UCZGtLTeoGSFcs0c4SlkQHHA?view_as=subscriber
 [jsplaylist]:https://www.youtube.com/channel/UCZGtLTeoGSFcs0c4SlkQHHA?view_as=subscriber
 [cssplaylist]: https://www.youtube.com/channel/UCZGtLTeoGSFcs0c4SlkQHHA?view_as=subscriber
