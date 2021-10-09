@@ -37,18 +37,17 @@
 [<img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/github.svg" />][webdevplaylist]
 
 
-<br />
-<br />
+<br /> 
 
 
 
 ---
 
-<img align="left" alt="Rakib's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rakib-Hasan-455&show_icons=true&hide_border=true&theme=discord_old_blurple " />
+<img align="left" alt="Rakib's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rakib-Hasan-455&show_icons=true&hide_border=true&theme=default  " />
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakib-Hasan-455&theme=discord_old_blurple )](https://github.com/Rakib-Hasan-455)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakib-Hasan-455&theme=default  )](https://github.com/Rakib-Hasan-455)
 
 
 ---
