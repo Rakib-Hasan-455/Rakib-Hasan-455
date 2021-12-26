@@ -53,8 +53,8 @@
 ---
 
 ### 📺 Latest YOUTUBE videos
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
+<!-- YOUTUBE-VIDEOS-LIST:START -->
+<!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
 
