@@ -54,9 +54,6 @@
 
 ### 📺 Latest YOUTUBE videos
 <!-- YOUTUBE:START -->
-- [Semester fee calculator Promo Video.](https://www.youtube.com/watch?v=4K1n5EWy-j0)
-- [My first rendered animation..](https://www.youtube.com/watch?v=QnR8febFDfM)
-- [Rapoo v500 RGB keyboard sound test.(Blue Switch)](https://www.youtube.com/watch?v=EjAzXhRIblQ)
 <!-- YOUTUBE:END -->
 
 ---
