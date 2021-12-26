@@ -54,6 +54,10 @@
 
 ### 📺 Latest YOUTUBE videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Hotel Management System - JavaFX Modern Application Overview](https://www.youtube.com/watch?v=bqJYexRSPCA)
+- [Semester fee calculator Promo Video.](https://www.youtube.com/watch?v=4K1n5EWy-j0)
+- [My first rendered animation..](https://www.youtube.com/watch?v=QnR8febFDfM)
+- [Rapoo v500 RGB keyboard sound test.&lpar;Blue Switch&rpar;](https://www.youtube.com/watch?v=EjAzXhRIblQ)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
