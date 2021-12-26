@@ -1,8 +1,8 @@
 name: Latest YouTube videos
 on:
   schedule:
-    # Runs every 59 minutes
-    - cron: '*/59 * * * *'
+    # Runs every 30 minutes
+    - cron: '*/30 * * * *'
 
 jobs:
   update-readme-with-youtube:
