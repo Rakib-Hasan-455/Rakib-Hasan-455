@@ -43,11 +43,11 @@
 
 ---
 
-<img align="center" alt="Rakib's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rakib-Hasan-455&show_icons=true&hide_border=true&theme=dark   " />
+<img align="center" alt="Rakib's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rakib-Hasan-455&show_icons=true&include_all_commits=true&theme=material-palenight" />
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakib-Hasan-455&theme=dark   )](https://github.com/Rakib-Hasan-455)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakib-Hasan-455&theme=material-palenight&langs_count=5   )](https://github.com/Rakib-Hasan-455)
 
 
 ---
