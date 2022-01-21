@@ -54,6 +54,8 @@
 [![Years Badge](https://badges.pufler.dev/years/Rakib-Hasan-455)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/Rakib-Hasan-455)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/Rakib-Hasan-455)](https://badges.pufler.dev)
+
+[![Contributors Display](https://badges.pufler.dev/contributors/Rakib-Hasan-455/git-badges?size=50&padding=5&bots=true)](https://badges.pufler.dev)
 ---
 
 ### 📺 Latest YOUTUBE videos
