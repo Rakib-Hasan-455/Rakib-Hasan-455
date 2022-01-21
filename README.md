@@ -52,7 +52,7 @@
 
 [![Visits Badge](https://badges.pufler.dev/visits/Rakib-Hasan-455/Rakib-Hasan-455)](https://github.com/Rakib-Hasan-455)
 [![Years Badge](https://badges.pufler.dev/years/Rakib-Hasan-455)](https://badges.pufler.dev)
-
+[![Repos Badge](https://badges.pufler.dev/repos/Rakib-Hasan-455)](https://badges.pufler.dev)
 
 ---
 
