@@ -44,6 +44,7 @@
 ---
 
 <img align="center" alt="Rakib's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rakib-Hasan-455&show_icons=true&include_all_commits=true&theme=material-palenight" />
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/Rakib-Hasan-455)](https://badges.pufler.dev)
 
 ---
 
@@ -53,8 +54,6 @@
 [![Visits Badge](https://badges.pufler.dev/visits/Rakib-Hasan-455/Rakib-Hasan-455)](https://github.com/Rakib-Hasan-455)
 [![Years Badge](https://badges.pufler.dev/years/Rakib-Hasan-455)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/Rakib-Hasan-455)](https://badges.pufler.dev)
-[![Gists Badge](https://badges.pufler.dev/gists/Rakib-Hasan-455)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/Rakib-Hasan-455)](https://badges.pufler.dev)
 
 ---
 
