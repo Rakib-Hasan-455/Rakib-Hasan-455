@@ -1,6 +1,10 @@
 name: Latest YouTube videos
 on:
-  workflow_dispatch:
+#   workflow_dispatch:
+  schedule:
+    # Runs every 10 days
+    - cron: '0 0 */10 * *'
+
   
 jobs:
   update-readme-with-youtube:
