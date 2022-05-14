@@ -1,4 +1,4 @@
-name: Latest YouTube videos
+name: Latest YouTubee videos
 on:
 #   workflow_dispatch:
   schedule:
