@@ -1,9 +1,7 @@
 name: Latest YouTube videos
 on:
-  schedule:
-    # Runs every 59 minutes
-    - cron: '0 0 */10 * *'
-
+  workflow_dispatch:
+  
 jobs:
   update-readme-with-youtube:
     name: Update this repo's README with latest activity from YouTube
