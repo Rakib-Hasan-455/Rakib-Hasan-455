@@ -60,10 +60,9 @@
 
 ### 📺 Latest YOUTUBE videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Hotel Management System - JavaFX Modern Application Overview](https://www.youtube.com/watch?v=bqJYexRSPCA)
-- [Semester fee calculator Promo Video.](https://www.youtube.com/watch?v=4K1n5EWy-j0)
-- [My first rendered animation..](https://www.youtube.com/watch?v=QnR8febFDfM)
-- [Rapoo v500 RGB keyboard sound test.&lpar;Blue Switch&rpar;](https://www.youtube.com/watch?v=EjAzXhRIblQ)
+- [JavaFX Hotel Management System   Modern Application Review](https://www.youtube.com/watch?v=_UOMsHpJSeg)
+- [Hotel Management System   JavaFX Modern Application Overview](https://www.youtube.com/watch?v=zK-ESKrwr5Y)
+- [1.  Big O Time Complexity Calculation of for Loop &lpar;Algorithm&rpar;](https://www.youtube.com/watch?v=-gTpUviK6eQ)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
