@@ -60,9 +60,10 @@
 
 ### 📺 Latest YOUTUBE videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Hotel Management System University Presentation](https://www.youtube.com/watch?v=oVg-mhqggfs)
 - [JavaFX Hotel Management System   Modern Application Review](https://www.youtube.com/watch?v=_UOMsHpJSeg)
 - [Hotel Management System   JavaFX Modern Application Overview](https://www.youtube.com/watch?v=zK-ESKrwr5Y)
-- [1.  Big O Time Complexity Calculation of for Loop &lpar;Algorithm&rpar;](https://www.youtube.com/watch?v=-gTpUviK6eQ)
+- [Big O Time Complexity Calculation of for Loop &lpar;Algorithm&rpar;](https://www.youtube.com/watch?v=-gTpUviK6eQ)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
