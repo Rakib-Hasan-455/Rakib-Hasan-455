@@ -1,4 +1,3 @@
-
 ### Hi there, I'm [Rakib Hasan][website] 👋
 
 ## I'm a newbie Learner !
@@ -25,10 +24,6 @@
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />][cssplaylist]
 [<img align="left" alt="Sass" width="26px" src="https://simpleicons.org/icons/intellijidea.svg" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://simpleicons.org/icons/dart.svg" />][jsplaylist]
-[<img align="left" alt="React" width="26px" src="https://simpleicons.org/icons/flutter.svg" />][reactplaylist]
-[<img align="left" alt="Gatsby" width="26px" src="https://simpleicons.org/icons/ios.svg" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://simpleicons.org/icons/firebase.svg" />][webdevplaylist]
 
 [<img align="left" alt="Git" width="26px" src="https://simpleicons.org/icons/mysql.svg" />][webdevplaylist]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
