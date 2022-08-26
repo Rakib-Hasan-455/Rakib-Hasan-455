@@ -21,8 +21,8 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />][cssplaylist]
+[<img align="left" alt="HTML5" width="26px" src="https://spring-petclinic.github.io/images/logo-spring.png" />][webdevplaylist]
+[<img align="left" alt="CSS3" width="26px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/java_logo_icon_169577.png" />][cssplaylist]
 [<img align="left" alt="Sass" width="26px" src="https://simpleicons.org/icons/intellijidea.svg" />][cssplaylist]
 
 [<img align="left" alt="Git" width="26px" src="https://simpleicons.org/icons/mysql.svg" />][webdevplaylist]
@@ -44,10 +44,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakib-Hasan-455&theme=material-palenight&langs_count=5   )](https://github.com/Rakib-Hasan-455)
 
 ---
-
-[![Visits Badge](https://badges.pufler.dev/visits/Rakib-Hasan-455/Rakib-Hasan-455)](https://github.com/Rakib-Hasan-455)
-[![Years Badge](https://badges.pufler.dev/years/Rakib-Hasan-455)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/Rakib-Hasan-455)](https://badges.pufler.dev)
 
 ---
 
