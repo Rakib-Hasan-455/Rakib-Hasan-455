@@ -45,8 +45,6 @@
 
 ---
 
----
-
 
 ### 📺 Latest YOUTUBE videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
