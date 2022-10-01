@@ -16,9 +16,8 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://simpleicons.org/icons/facebook.svg" />][Facebook]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-
 <br />
+
 ### Languages and Tools:
 
 [<img align="left" alt="HTML5" width="26px" src="https://spring-petclinic.github.io/images/logo-spring.png" />][webdevplaylist]
