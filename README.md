@@ -43,7 +43,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakib-Hasan-455&theme=material-palenight&langs_count=5   )](https://github.com/Rakib-Hasan-455)
 
-![ProfileViews](https://komarev.com/ghpvc/?username=Rakib-Hasan-455&color=blue) &nbsp;
+![ProfileViews](https://komarev.com/ghpvc/?username=Rakib-Hasan-455&color=orange) &nbsp;
 [![wakatime](https://wakatime.com/badge/user/bf42627e-8b28-4048-a8a6-85582f4c51a1.svg)](https://wakatime.com/@bf42627e-8b28-4048-a8a6-85582f4c51a1)
 
 ---
