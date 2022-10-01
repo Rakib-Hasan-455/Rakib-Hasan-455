@@ -18,7 +18,8 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-
+![](https://komarev.com/ghpvc/?username=Rakib-Hasan-455&color=green)
+<br/>
 ### Languages and Tools:
 
 [<img align="left" alt="HTML5" width="26px" src="https://spring-petclinic.github.io/images/logo-spring.png" />][webdevplaylist]
