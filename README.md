@@ -17,9 +17,8 @@
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+
 <br />
-![](https://komarev.com/ghpvc/?username=Rakib-Hasan-455&color=green)
-<br/>
 ### Languages and Tools:
 
 [<img align="left" alt="HTML5" width="26px" src="https://spring-petclinic.github.io/images/logo-spring.png" />][webdevplaylist]
@@ -44,6 +43,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakib-Hasan-455&theme=material-palenight&langs_count=5   )](https://github.com/Rakib-Hasan-455)
 
+![ProfileViews](https://komarev.com/ghpvc/?username=Rakib-Hasan-455&color=green) &nbsp;
 [![wakatime](https://wakatime.com/badge/user/bf42627e-8b28-4048-a8a6-85582f4c51a1.svg)](https://wakatime.com/@bf42627e-8b28-4048-a8a6-85582f4c51a1)
 
 ---
