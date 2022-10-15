@@ -1,4 +1,4 @@
-### Hi there, I'm [Rakib Hasan][website] 👋
+### Hi there, I'm [Rakib Hasan][linkedin] 👋
 
 ## I'm a newbie Learner !
 - 🔭 I’m currently not working anywhere !
