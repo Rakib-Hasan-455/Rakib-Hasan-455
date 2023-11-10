@@ -1,10 +1,9 @@
 ### Hi there, I'm [Rakib Hasan][linkedin] 👋
 
-## I'm a newbie Learner !
-- 🔭 I’m currently not working anywhere !
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 Recent Goals: Contribute more to Open Source projects
+## I'm a developer & Learner !
+- 🔭 I’m currently working at Southeast University!
+- 🌱 I’m currently learning to be a software engineer 
+- 👯 I’m looking to collaborate with teammates
 - ⚡ Fun fact: I love to draw/animate and play guitar / sing music.
 
 ### Connect with me:
