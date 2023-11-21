@@ -48,11 +48,11 @@
 
 ### 📺 Latest YOUTUBE videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Duplex House - Computer Graphics Project](https://www.youtube.com/watch?v=WHt7vVA7V0k)
 - [Doctors Care | Brain-Cache | Therap JavaFest 2022](https://www.youtube.com/watch?v=vntkXjHCAFU)
 - [Hotel Management System University Presentation](https://www.youtube.com/watch?v=oVg-mhqggfs)
 - [JavaFX Hotel Management System   Modern Application Review](https://www.youtube.com/watch?v=_UOMsHpJSeg)
 - [Hotel Management System   JavaFX Modern Application Overview](https://www.youtube.com/watch?v=zK-ESKrwr5Y)
-- [Big O Time Complexity Calculation of for Loop &lpar;Algorithm&rpar;](https://www.youtube.com/watch?v=-gTpUviK6eQ)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
