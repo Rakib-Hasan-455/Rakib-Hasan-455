@@ -8,11 +8,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-white-icon.png" />][linkedin]
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://i.ibb.co/gM9x3GZ/download.png" />][Website]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://i.ibb.co/SK6QwTb/output-onlinepngtools-1.png" />][linkedin]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://i.ibb.co/QvcgqPf/Screenshot-from-2023-12-19-14-33-00.png" />][Website]
 
-[<img align="left"  alt="codeSTACKr | YouTube" width="28px" height="22px" src="https://i.ibb.co/BKK3CTy/paper-black-and-white-logo-pattern-youtube-play-button-6f7fda0489cbea1d1b4a036e5a111e85.png" />][youtube]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://tmpfiles.nohat.cc/full-m2H7N4N4b1K9b1Z5.png" />][Facebook]
+[<img align="left"  alt="codeSTACKr | YouTube" width="32px" height="22px" src="https://i.ibb.co/37f3wQH/Screenshot-from-2023-12-19-14-27-39.png" />][youtube]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://i.ibb.co/qMgSnfB/facebook.png" />][Facebook]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://icons-for-free.com/iconfiles/png/256/super+tiny+icons+twitter-1324450786355861298.png" />][twitter]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://i.ibb.co/Q62Rkrk/insta-logo.png" />][instagram]
 <br />
