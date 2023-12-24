@@ -34,19 +34,25 @@
 
 
 ---
-
-<img align="center" alt="Rakib's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rakib-Hasan-455&show_icons=true&include_all_commits=true&theme=material-palenight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rakib-Hasan-455&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Rakib's Github Stats" style="width: 45%; height:100%; max-width: 400px; margin-bottom: 20px;" />
 
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakib-Hasan-455&theme=material-palenight&langs_count=5   )](https://github.com/Rakib-Hasan-455)
 
+
+---
 ### Coding Activity since last year:
 
 [![wakatime](https://wakatime.com/share/@rakib_hasan_455/6f9b5729-511a-4b69-b8d7-13ce10d18932.svg)](https://wakatime.com/share/@rakib_hasan_455/6f9b5729-511a-4b69-b8d7-13ce10d18932.svg)
 
 ![ProfileViews](https://komarev.com/ghpvc/?username=Rakib-Hasan-455&color=orange) &nbsp;
 [![wakatime](https://wakatime.com/badge/user/bf42627e-8b28-4048-a8a6-85582f4c51a1.svg)](https://wakatime.com/@bf42627e-8b28-4048-a8a6-85582f4c51a1)
+
+---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Rakib-Hasan-455&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ---
 
