@@ -34,7 +34,7 @@
 
 
 ---
-  <img src="https://github-readme-stats.vercel.app/api?username=Rakib-Hasan-455&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Rakib's Github Stats" style="width: 45%; height:100%; max-width: 400px; margin-bottom: 20px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rakib-Hasan-455&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Rakib's Github Stats" />
 
 ---
 
