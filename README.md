@@ -58,7 +58,7 @@
 
 ### 📺 Latest YOUTUBE videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Duplex House - Computer Graphics Project](https://www.youtube.com/watch?v=WHt7vVA7V0k)
+- [Duplex House - Computer Graphics Project](https://www.youtube.com/watch?v=htu6ipG21jo)
 - [Doctors Care | Brain-Cache | Therap JavaFest 2022](https://www.youtube.com/watch?v=vntkXjHCAFU)
 - [Hotel Management System University Presentation](https://www.youtube.com/watch?v=oVg-mhqggfs)
 - [JavaFX Hotel Management System   Modern Application Review](https://www.youtube.com/watch?v=_UOMsHpJSeg)
