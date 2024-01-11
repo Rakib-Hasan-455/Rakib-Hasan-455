@@ -72,7 +72,7 @@
 - [What to do if Java command is not recognized by  terminal.](https://dev.to/rakibhasan455/what-to-do-if-java-command-is-not-recognized-by-terminal-o4c)
 <!-- BLOG-POST-LIST:END -->
 
-[website]:https://sites.google.com/view/rakibul-hasan-455
+[website]:https://www.linkedin.com/in/Rakibul-hasan-0455
 [Twitter]: https://twitter.com/Rakib_Hasan_455
 [youtube]:https://www.youtube.com/channel/UCW-aYxMykjrFkqGRtEwWPZg
 [instagram]: https://www.instagram.com/rakibul_hasan_455
