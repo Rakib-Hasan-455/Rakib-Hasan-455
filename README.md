@@ -13,7 +13,7 @@
 
 [<img align="left"  alt="codeSTACKr | YouTube" width="32px" height="22px" src="https://i.ibb.co/37f3wQH/Screenshot-from-2023-12-19-14-27-39.png" />][youtube]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://i.ibb.co/qMgSnfB/facebook.png" />][Facebook]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://icons-for-free.com/iconfiles/png/256/super+tiny+icons+twitter-1324450786355861298.png" />][twitter]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_twitter-512.png" />][twitter]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://i.ibb.co/Q62Rkrk/insta-logo.png" />][instagram]
 <br />
 
