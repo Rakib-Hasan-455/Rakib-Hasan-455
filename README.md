@@ -74,11 +74,11 @@
 
 [website]:https://www.linkedin.com/in/Rakibul-hasan-0455
 [Twitter]: https://twitter.com/Rakib_Hasan_455
-[youtube]:https://www.youtube.com/channel/UCW-aYxMykjrFkqGRtEwWPZg
+[youtube]:https://youtube.com/@streamcoders3552?si=Sal00MNT3cI8RzuS
 [instagram]: https://www.instagram.com/rakibul_hasan_455
 [linkedin]: https://www.linkedin.com/in/Rakibul-hasan-0455
 [Facebook]: https://www.facebook.com/Rakibul.hasan.455
-[webdevplaylist]:https://www.youtube.com/channel/UCZGtLTeoGSFcs0c4SlkQHHA?view_as=subscriber
-[jsplaylist]:https://www.youtube.com/channel/UCZGtLTeoGSFcs0c4SlkQHHA?view_as=subscriber
-[cssplaylist]: https://www.youtube.com/channel/UCZGtLTeoGSFcs0c4SlkQHHA?view_as=subscriber
-[reactplaylist]: https://www.youtube.com/channel/UCZGtLTeoGSFcs0c4SlkQHHA?view_as=subscriber
+[webdevplaylist]: https://youtube.com/@streamcoders3552?si=Sal00MNT3cI8RzuS
+[jsplaylist]: https://youtube.com/@streamcoders3552?si=Sal00MNT3cI8RzuS
+[cssplaylist]: https://youtube.com/@streamcoders3552?si=Sal00MNT3cI8RzuS
+[reactplaylist]: https://youtube.com/@streamcoders3552?si=Sal00MNT3cI8RzuS
