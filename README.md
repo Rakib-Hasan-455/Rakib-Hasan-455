@@ -1,7 +1,7 @@
 ### Hi there, I'm [Rakib Hasan][linkedin] 👋
 
 ## I'm a developer & Learner !
-- 🔭 I’m currently working at Southeast University!
+- 🔭 I’m used to work as programming assistant at Southeast University!
 - 🌱 I’m currently learning to be a software engineer 
 - 👯 I’m looking to collaborate with teammates
 - ⚡ Fun fact: I love to draw/animate and play guitar / sing music.
