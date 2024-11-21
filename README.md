@@ -58,11 +58,11 @@
 
 ### 📺 Latest YOUTUBE videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Spring Boot AI Chat Application Ollama llama3](https://www.youtube.com/watch?v=ty7a7E4totw)
 - [Duplex House - Computer Graphics Project](https://www.youtube.com/watch?v=htu6ipG21jo)
 - [Doctors Care | Brain-Cache | Therap JavaFest 2022](https://www.youtube.com/watch?v=vntkXjHCAFU)
 - [Hotel Management System University Presentation](https://www.youtube.com/watch?v=oVg-mhqggfs)
 - [JavaFX Hotel Management System   Modern Application Review](https://www.youtube.com/watch?v=_UOMsHpJSeg)
-- [Hotel Management System   JavaFX Modern Application Overview](https://www.youtube.com/watch?v=zK-ESKrwr5Y)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
