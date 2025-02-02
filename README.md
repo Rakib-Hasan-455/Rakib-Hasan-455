@@ -8,19 +8,19 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://i.ibb.co/SK6QwTb/output-onlinepngtools-1.png" />][linkedin]
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://i.ibb.co/QvcgqPf/Screenshot-from-2023-12-19-14-33-00.png" />][Website]
+[<img align="left" alt=" | LinkedIn" width="22px" src="https://i.ibb.co/SK6QwTb/output-onlinepngtools-1.png" />][linkedin]
+[<img align="left" alt="" width="22px" src="https://i.ibb.co/QvcgqPf/Screenshot-from-2023-12-19-14-33-00.png" />][Website]
 
-[<img align="left"  alt="codeSTACKr | YouTube" width="32px" height="22px" src="https://i.ibb.co/37f3wQH/Screenshot-from-2023-12-19-14-27-39.png" />][youtube]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://i.ibb.co/qMgSnfB/facebook.png" />][Facebook]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_twitter-512.png" />][twitter]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://i.ibb.co/Q62Rkrk/insta-logo.png" />][instagram]
+[<img align="left"  alt=" YouTube" width="32px" height="22px" src="https://i.ibb.co/37f3wQH/Screenshot-from-2023-12-19-14-27-39.png" />][youtube]
+[<img align="left" alt=" | Instagram" width="22px" src="https://i.ibb.co/qMgSnfB/facebook.png" />][Facebook]
+[<img align="left" alt=" | Twitter" width="22px" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_twitter-512.png" />][twitter]
+[<img align="left" alt=" | Instagram" width="22px" src="https://i.ibb.co/Q62Rkrk/insta-logo.png" />][instagram]
 <br />
 
 ### Languages and Tools:
 
 [<img align="left" alt="HTML5" width="26px" src="https://spring-petclinic.github.io/images/logo-spring.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/java_logo_icon_169577.png" />][cssplaylist]
+[<img align="left" alt="CSS3" width="26px" src="https://i.ibb.co.com/bMz0Q2NS/klipartz-com-1.png" />][cssplaylist]
 [<img align="left" alt="Sass" width="26px" src="https://c75.gallerycdn.vsassets.io/extensions/c75/real-intellij-light/0.0.5/1683487085446/Microsoft.VisualStudio.Services.Icons.Default" />][cssplaylist]
 
 [<img align="left" alt="Git" width="26px" src="https://i.ibb.co/g9dwptb/mysql-database-web-development-computer-software-dolphin-3f2ef1a6723e0e7faa8ac845294f02a3.png" />][webdevplaylist]
