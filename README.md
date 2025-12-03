@@ -11,22 +11,22 @@
 [<img align="left" alt=" | LinkedIn" width="22px" src="https://i.ibb.co/SK6QwTb/output-onlinepngtools-1.png" />][linkedin]
 [<img align="left" alt="" width="22px" src="https://i.ibb.co/QvcgqPf/Screenshot-from-2023-12-19-14-33-00.png" />][Website]
 
-[<img align="left"  alt=" YouTube" width="32px" height="22px" src="https://i.ibb.co/37f3wQH/Screenshot-from-2023-12-19-14-27-39.png" />][youtube]
-[<img align="left" alt=" | Instagram" width="22px" src="https://i.ibb.co/qMgSnfB/facebook.png" />][Facebook]
-[<img align="left" alt=" | Twitter" width="22px" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_twitter-512.png" />][twitter]
-[<img align="left" alt=" | Instagram" width="22px" src="https://i.ibb.co/Q62Rkrk/insta-logo.png" />][instagram]
+[<img align="left"  alt=" " width="32px" height="22px" src="https://i.ibb.co/37f3wQH/Screenshot-from-2023-12-19-14-27-39.png" />][youtube]
+[<img align="left" alt=" " width="22px" src="https://i.ibb.co/qMgSnfB/facebook.png" />][Facebook]
+[<img align="left" alt=" " width="22px" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_twitter-512.png" />][twitter]
+[<img align="left" alt=" " width="22px" src="https://i.ibb.co/Q62Rkrk/insta-logo.png" />][instagram]
 <br />
 
 ### Languages and Tools:
 
-[<img align="left" alt="HTML5" width="26px" src="https://spring-petclinic.github.io/images/logo-spring.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://i.ibb.co.com/bMz0Q2NS/klipartz-com-1.png" />][cssplaylist]
-[<img align="left" alt="Sass" width="26px" src="https://c75.gallerycdn.vsassets.io/extensions/c75/real-intellij-light/0.0.5/1683487085446/Microsoft.VisualStudio.Services.Icons.Default" />][cssplaylist]
+[<img align="left" alt="" width="26px" src="https://spring-petclinic.github.io/images/logo-spring.png" />][webdevplaylist]
+[<img align="left" alt="" width="26px" src="https://i.ibb.co.com/bMz0Q2NS/klipartz-com-1.png" />][cssplaylist]
+[<img align="left" alt="" width="26px" src="https://c75.gallerycdn.vsassets.io/extensions/c75/real-intellij-light/0.0.5/1683487085446/Microsoft.VisualStudio.Services.Icons.Default" />][cssplaylist]
 
-[<img align="left" alt="Git" width="26px" src="https://i.ibb.co/g9dwptb/mysql-database-web-development-computer-software-dolphin-3f2ef1a6723e0e7faa8ac845294f02a3.png" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://i.ibb.co/sFd3p25/output-onlinepngtools.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://i.ibb.co/0rBMZwt/github-pages-logo-repository-fork-github-86eddab19cbc3ae293ada0fe0fb9e27d.png" />][webdevplaylist]
+[<img align="left" alt="" width="26px" src="https://i.ibb.co/g9dwptb/mysql-database-web-development-computer-software-dolphin-3f2ef1a6723e0e7faa8ac845294f02a3.png" />][webdevplaylist]
+[<img align="left" alt="" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
+[<img align="left" alt="" width="26px" src="https://i.ibb.co/sFd3p25/output-onlinepngtools.png" />][webdevplaylist]
+[<img align="left" alt="" width="26px" src="https://i.ibb.co/0rBMZwt/github-pages-logo-repository-fork-github-86eddab19cbc3ae293ada0fe0fb9e27d.png" />][webdevplaylist]
 
 
 <br /> 
