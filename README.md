@@ -1,8 +1,8 @@
 ### Hi there, I'm [Rakib Hasan][linkedin] 👋
 
 ## I'm a developer & Learner !
-- 🔭 I’m used to work as programming assistant at Southeast University!
-- 🌱 I’m currently learning to be a software engineer 
+- 🔭 I’m used to work as Software Engineer at Arollo Tech Limited!
+- 🌱 I’m currently learning to be great software engineer 
 - 👯 I’m looking to collaborate with teammates
 - ⚡ Fun fact: I love to draw/animate and watch movies 🫣.
 
