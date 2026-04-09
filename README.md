@@ -1,11 +1,5 @@
 ### Hi there, I'm [Rakib Hasan][linkedin] 👋
 
-## I'm a developer & Learner !
-- 🔭 I’m used to work as Software Engineer at Arollo Tech Limited!
-- 🌱 I’m currently learning to be great software engineer 
-- 👯 I’m looking to collaborate with teammates
-- ⚡ Fun fact: I love to draw/animate and watch movies 🫣.
-
 ### Connect with me:
 
 [<img align="left" alt=" | LinkedIn" width="22px" src="https://i.ibb.co/SK6QwTb/output-onlinepngtools-1.png" />][linkedin]
