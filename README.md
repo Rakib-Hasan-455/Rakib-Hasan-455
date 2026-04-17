@@ -62,7 +62,7 @@
 [website]:https://www.linkedin.com/in/Rakibul-hasan-0455
 [Twitter]: https://twitter.com/Rakib_Hasan_455
 [youtube]:https://youtube.com/@streamcoders3552?si=Sal00MNT3cI8RzuS
-[instagram]: https://www.instagram.com/rakibul_hasan_455
+[instagram]: https://www.instagram.com/rakib.hasan.455
 [linkedin]: https://www.linkedin.com/in/Rakibul-hasan-0455
 [Facebook]: https://www.facebook.com/Rakibul.hasan.455
 [webdevplaylist]: https://youtube.com/@streamcoders3552?si=Sal00MNT3cI8RzuS
