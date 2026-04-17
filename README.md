@@ -50,14 +50,7 @@
 
 ---
 
-### 📺 Latest YOUTUBE videos
-<!-- YOUTUBE-VIDEOS-LIST:START -->
-- [MES Under pass, Dhaka](https://www.youtube.com/shorts/I-JtbxC9NEM)
-- [All you need is peace!](https://www.youtube.com/shorts/fjJi0_1Wzl0)
-- [Spring Boot AI Chat Application Ollama llama3](https://www.youtube.com/watch?v=ty7a7E4totw)
-- [Duplex House - Computer Graphics Project](https://www.youtube.com/watch?v=htu6ipG21jo)
-- [Doctors Care | Brain-Cache | Therap JavaFest 2022](https://www.youtube.com/watch?v=vntkXjHCAFU)
-<!-- YOUTUBE-VIDEOS-LIST:END -->
+
 
 ---
 
