@@ -51,11 +51,11 @@
 ---
 ### 📺 Latest YOUTUBE videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Ruppur Nuclear power plant](https://www.youtube.com/watch?v=1SSpFNarQK8)
+- [Happy new year celebration Dhaka](https://www.youtube.com/watch?v=9J6DQVPCXZU)
 - [Spring Boot AI Chat Application Ollama llama3](https://www.youtube.com/watch?v=ty7a7E4totw)
 - [Doctors Care | Brain-Cache | Therap JavaFest 2022](https://www.youtube.com/watch?v=vntkXjHCAFU)
 - [JavaFX Hotel Management System   Modern Application Review](https://www.youtube.com/watch?v=_UOMsHpJSeg)
-- [Big O Time Complexity Calculation of for Loop &lpar;Algorithm&rpar;](https://www.youtube.com/watch?v=-gTpUviK6eQ)
-- [BrownGuy Codes Live Stream](https://www.youtube.com/watch?v=WGUMhhGskXs)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 ---
 
