@@ -3,6 +3,7 @@ on:
   schedule:
     # Runs every 55 minutes
     - cron: '*/55 * * * *'
+  workflow_dispatch: 
 
 jobs:
   update-readme-with-blog:
