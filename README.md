@@ -61,11 +61,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Encrypting Sensitive Data in Spring Boot: AES-256-GCM Explained with a Real-World Example](https://dev.to/rakibhasan455/encrypting-sensitive-data-in-spring-boot-aes-256-gcm-explained-with-a-real-world-example-41go)
 - [two-sum](https://dev.to/rakibhasan455/two-sum-1kmd)
 - [Spring vs Spring Boot](https://dev.to/rakibhasan455/spring-vs-spring-boot-8b8)
 - [Introduction to Spring Boot](https://dev.to/rakibhasan455/introduction-to-spring-boot-10d9)
 - [How I Learned Unit Testing in Spring Boot by Building One Simple Project](https://dev.to/rakibhasan455/how-i-learned-unit-testing-in-spring-boot-by-building-one-simple-project-2eg0)
-- [What to do if Java command is not recognized by terminal.](https://dev.to/rakibhasan455/what-to-do-if-java-command-is-not-recognized-by-terminal-o4c)
 <!-- BLOG-POST-LIST:END -->
 
 [website]:https://www.linkedin.com/in/Rakibul-hasan-0455
